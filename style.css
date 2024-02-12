@@ -178,9 +178,7 @@ section {
   margin: auto 0;
 }
 
-.section__pic-container img {
-  filter: grayscale();
-}
+
 
 
 .section__text {
